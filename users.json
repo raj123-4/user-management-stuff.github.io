@@ -1,0 +1,3 @@
+[
+  {"id":"1","name":"Admin","email":"admin@example.com","salt":"eafef7bcbf946ea8a679338d6bff7d46","hash":"cc8475ecedbc93e39822a24e77a77a219967bcda18d7f40deb2ce3ff166a6ba36ba0a9546b83596c7d7eb89dc18de6614e2f352ea1ad185a1cc3eddfad449dc3","role":"admin","revoked":false}
+]
