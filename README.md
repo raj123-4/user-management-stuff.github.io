@@ -26,3 +26,17 @@ The server listens on port `3000` and stores data in `users.json` in the project
 - `GET /admin/logs/:id` – admin only
 
 Tokens are returned on login and must be sent in the `Authorization` header.
+
+## EduNest Frontend
+
+A demo React + Tailwind CSS interface using Firebase authentication. To start the development server:
+
+```bash
+cd edunest
+npm install
+npm run dev
+```
+
+Demo logins:
+- Admin: `admin@edunest.com / admin123`
+- Student: `student@edunest.com / student123`
